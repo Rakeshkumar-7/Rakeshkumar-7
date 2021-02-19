@@ -15,7 +15,7 @@ I'm probably doing one of these things right now:
 - Binging anime
 - College work 😵
 - ~~Working on some project only to forget about it a couple days later~~
-- ~~Being sad?
+- ~~Being sad?~~
 
 
 
