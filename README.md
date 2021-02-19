@@ -12,6 +12,7 @@ I'm probably doing one of these things right now:
 
 - Playing games with my friends
 - Learning something new in a programming language or economics or investing
+- Binging anime
 - College work 😵
 - ~~Working on some project only to forget about it a couple days later~~
 - ~~Being sad?
