@@ -21,9 +21,9 @@ I'm probably doing one of these things right now:
 
 Connect with me:
 
-<a href="https://twitter.com/rakeshks_" style="text-decoration: none;" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/twitter-squared.png" alt="Twitter"/>: @rakeshks_</a>
+<a href="https://twitter.com/rakeshks_" style="text-decoration: none;" target="_blank"><img src="https://img.icons8.com/dusk/24/000000/twitter.png" alt="Twitter"/>: @rakeshks_</a>
 
-<a href="https://www.instagram.com/rakesh._.ks/" style="text-decoration: none;" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" alt="Instagram"/>: @rakesh._.ks</a>
+<a href="https://www.instagram.com/rakesh._.ks/" style="text-decoration: none;" target="_blank"><img src="https://img.icons8.com/dusk/24/000000/instagram-new.png" alt="Instagram"/>: @rakesh._.ks</a>
 
-<a href="https://www.linkedin.com/in/rakeshkumarks/" style="text-decoration: none;" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png" alt="LinkedIn"/>: @rakeshkumarks</a>
+<a href="https://www.linkedin.com/in/rakeshkumarks/" style="text-decoration: none;" target="_blank"><img src="https://img.icons8.com/dusk/24/000000/linkedin.png" alt="LinkedIn"/>: @rakeshkumarks</a>
 
