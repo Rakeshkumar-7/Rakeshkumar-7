@@ -1,6 +1,6 @@
 # Welcome message
 
-Hello there! I'm Rakesh, CS student who's also interested in Design, Economics, Psychology, Investing and Food. Why did I choose to be an CS student? Cuz' I love it! I like creating software that can automate simple tasks and make everyone's life much simpler, easier. 
+Hello there! I'm Rakesh, a CS student who's also interested in Design, Economics, Psychology, Investing and Food. Why did I choose to be an CS student? Cuz' I love it! I like creating software that can automate simple tasks and make everyone's life much simpler, easier. 
 
 As the ~~famous~~ saying goes :
 
