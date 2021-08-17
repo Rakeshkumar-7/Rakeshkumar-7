@@ -18,6 +18,8 @@ I'm probably doing one of these things right now:
 - ~~Being sad?~~
 
 
+![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=Rakeshkumar-7)
+
 
 Connect with me:
 
