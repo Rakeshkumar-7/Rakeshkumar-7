@@ -21,4 +21,4 @@ Connect with me:
 
 <a href="https://www.linkedin.com/in/rakeshkumarks/" style="text-decoration: none;" target="_blank"><img src="https://img.icons8.com/dusk/24/000000/linkedin.png" alt="LinkedIn"/>: @rakeshkumarks</a>
 
-<a href="https://leetcode.com/rakeshks7/" style="text-decoration: none;" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="Leetcode"/>: rakeshks7 </a>
+<a href="https://leetcode.com/rakeshks7/" style="text-decoration: none;" target="_blank"><img style="height: 24px; width: 24px;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="Leetcode"/> : rakeshks7 </a>
