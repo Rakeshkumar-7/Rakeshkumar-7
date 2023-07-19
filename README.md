@@ -1,6 +1,6 @@
-# Welcome message
+# Hello there! 👋
 
-Hello there! I'm Rakesh, a CS student.
+I'm Rakesh, a CS student.
 
 I tend to have a knack for decent looking design. I like to develop things iteratively. 
 
