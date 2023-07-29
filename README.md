@@ -9,7 +9,7 @@ I tend to have a knack for decent looking design. I like to develop things itera
 - Web and ML Enthusiast
 - Loves to write meaningful code
 
-I'm currently trying to learn Golang
+I'm currently trying to learn Golang <img width="35px" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" />
 
 Connect with me:
 
