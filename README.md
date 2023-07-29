@@ -9,6 +9,8 @@ I tend to have a knack for decent looking design. I like to develop things itera
 - Web and ML Enthusiast
 - Loves to write meaningful code
 
+I'm currently trying to learn Golang
+
 Connect with me:
 
 <a href="https://www.linkedin.com/in/rakeshkumarks/" style="text-decoration: none;" target="_blank"><img src="https://img.icons8.com/dusk/24/000000/linkedin.png" alt="LinkedIn"/>: @rakeshkumarks</a>
