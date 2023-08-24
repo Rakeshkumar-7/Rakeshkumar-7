@@ -8,6 +8,7 @@ I tend to have a knack for decent looking design. I like to develop things itera
 - Final year student @ Vellore Institute of Technology, Chennai
 - Web and ML Enthusiast
 - Loves to write meaningful code
+- Learning code design patterns and standards to write good quality maintainable code
 
 I'm currently trying to learn Golang <img width="35px" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" />
 
