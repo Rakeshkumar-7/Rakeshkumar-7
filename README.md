@@ -10,8 +10,6 @@ I tend to have a knack for decent looking design. I like to develop things itera
 - Loves to write meaningful code
 - Learning code design patterns and standards to write good quality maintainable code
 
-I'm currently trying to learn Golang <img width="35px" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" />
-
 Connect with me:
 
 <a href="https://www.linkedin.com/in/rakeshkumarks/" style="text-decoration: none;" target="_blank"><img src="https://img.icons8.com/dusk/24/000000/linkedin.png" alt="LinkedIn"/>: @rakeshkumarks</a>
